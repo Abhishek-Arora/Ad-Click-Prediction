@@ -1,5 +1,5 @@
 # Ad Click Prediction
-Given an online ad, this application uses SVM, Naive Bayes, and Logistic Regression to predict whether the ad will be clicked by a user or not.
+Given an online ad, this application uses Apache Spark's MLlib library to implement SVM, Naive Bayes, and Logistic Regression to predict whether the ad will be clicked by a user or not.
 
 ## Data
 
